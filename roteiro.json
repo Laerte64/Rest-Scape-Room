@@ -1,0 +1,207 @@
+
+{
+    "Paginas": 
+    [
+        {
+            "Paragrafos":
+            [
+                "Você acorda em uma sala escura e fria. A única luz vem de uma série de terminais, cabos emaranhados e telas que piscam levemente. O ar é pesado, e você percebe que está trancado. À sua frente, há uma porta de aço, grande e imponente, com um teclado eletrônico ao lado. No topo da porta, há uma mensagem piscando em vermelho: \"ACESSO RESTRITO: PERMISSÃO EXIGIDA\".",
+                "Na sala, há vários objetos que podem ser investigados: um rack de servidores, um painel de controle no canto, e uma pilha de documentos em uma mesa coberta de poeira.",
+                "Você sabe que, para sair, precisará desvendar os mistérios dessa sala. Uma voz robótica ecoa ao seu redor:",
+                "\"Para abrir a porta, você deve responder corretamente 10 questões. Cada pista te guiará para a próxima. Suas respostas te levarão à liberdade. Boa sorte!\""
+            ],
+            "Questao": null
+        },
+        {
+            "Paragrafos": 
+            [
+                "Você se aproxima do rack de servidores. Os LEDs estão piscando em um padrão estranho, como se algo estivesse tentando se comunicar. Ao tocar na superfície metálica, um terminal próximo exibe uma nova mensagem:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 1: Para entender REST, você precisa compreender sua fundação. Qual destas opções melhor descreve uma API REST no ASP.NET?",
+                "Alternativas":
+                [
+                    "Uma API que só usa POST para enviar dados.",
+                    "Um padrão arquitetural que permite comunicação entre sistemas via HTTP.",
+                    "Um protocolo de comunicação em tempo real.",
+                    "Um sistema de autenticação baseado em tokens."
+                ],
+                "Resposta": 1
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+                "Ao sair da primeira sala, você entra em um corredor curto que leva a uma nova sala. Nessa, há um rack de servidores piscando. Cada luz parece sincronizada com um código. Ao tocar um dos servidores, uma nova Pergunta aparece em uma tela:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 2: Qual verbo HTTP é geralmente usado para recuperar dados de uma API REST?",
+                "Alternativas":
+                [
+                    "POST",
+                    "GET",
+                    "PUT",
+                    "DELETE"
+                ],
+                "Resposta": 1
+            }
+        },
+        {
+            "Paragrafos":
+            [
+                "A próxima sala contém um painel de controle cheio de botões e luzes piscando. Um grande monitor exibe uma mensagem que exige atenção. Ao interagir com o painel, surge a próxima Pergunta:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 3: Em uma API REST, qual cabeçalho HTTP é utilizado para indicar o tipo de conteúdo que o cliente espera receber?",
+                "Alternativas":
+                [
+                    "Authorization",
+                    "Accept",
+                    "Content-Type",
+                    "User-Agent"
+                ],
+                "Resposta": 2
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+            "Você entra em uma sala com um cofre eletrônico. A tela do cofre brilha, pedindo um código de acesso, mas ao tentar inserir qualquer número, uma Pergunta surge:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 4: Qual verbo HTTP é mais apropriado para enviar dados para o servidor e criar um novo recurso",
+                "Alternativas":
+                [
+                    "GET",
+                    "POST",
+                    "PUT",
+                    "DELETE"
+                ],
+                "Resposta": 1
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+                "Após desvendar o cofre, você encontra um corredor que leva a uma sala cheia de telas antigas mostrando logs de requisições HTTP. Cada tela exibe uma série de registros confusos, mas ao se aproximar, uma Pergunta aparece em destaque em uma das telas:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 5: Qual é a Resposta HTTP mais comum quando um recurso não é encontrado em uma API REST?",
+                "Alternativas":
+                [
+                    "200 OK",
+                    "201 Created",
+                    "404 Not Found",
+                    "500 Internal Server Error"
+                ],
+                "Resposta": 2
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+                "Você entra em uma nova sala onde diagramas de endpoints estão espalhados pelas paredes. Cada diagrama mostra o fluxo de comunicação entre cliente e servidor. No centro da sala, uma mesa com um tablet começa a piscar. Ao tocá-lo, surge a próxima Pergunta:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 6: Em uma API REST, qual verbo HTTP é usado para atualizar parcialmente um recurso existente?",
+                "Alternativas":
+                [
+                    "PATCH",
+                    "PUT",
+                    "POST",
+                    "DELETE"
+                ],
+                "Resposta": 0
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+                "Ao entrar, você percebe que essa sala parece diferente. As luzes são mais intensas, e um grande painel de autenticação domina o centro do ambiente. Vários cartões de acesso estão espalhados ao redor, mas nenhum deles parece funcionar. Uma mensagem aparece no painel:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 7: Qual é a abordagem de autenticação mais comum em APIs REST no ASP.NET para proteger as rotas?",
+                "Alternativas":
+                [
+                    "Cookies e sessões",
+                    "Autenticação por chaves de API",
+                    "Autenticação baseada em JWT (JSON Web Tokens)",
+                    "Autenticação OAuth exclusivamente"
+                ],
+                "Resposta": 2
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+                "Essa sala é diferente das outras. É um túnel longo e estreito com várias portas trancadas ao longo do caminho. À medida que você avança, uma voz robótica Pergunta:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 8: Qual verbo HTTP é geralmente utilizado para deletar um recurso em uma API REST?",
+                "Alternativas":
+                [
+                    "GET",
+                    "POST",
+                    "PUT",
+                    "DELETE"
+                ],
+                "Resposta": 3
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+                "Você chega em uma sala com códigos de erro escritos por toda a parede. Um grande monitor ao centro exibe uma série de erros comuns em APIs. Ao se aproximar, uma nova Pergunta aparece:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 9: Qual Resposta HTTP indica que o cliente está não autorizado a acessar um recurso, mas pode tentar novamente após autenticação?",
+                "Alternativas":
+                [
+                    "200 OK",
+                    "401 Unauthorized",
+                    "403 Forbidden",
+                    "500 Internal Server Error"
+                ],
+                "Resposta": 1
+            }
+        },
+        {
+            "Paragrafos": 
+            [
+                "Você finalmente chega à última sala. No centro, há uma porta de aço maciça, protegida por um teclado digital que requer um código final para ser aberta. Ao lado da porta, há uma placa que diz: \"Só os que realmente entendem REST APIs podem escapar.\" Quando você se aproxima, o teclado pisca e a Pergunta final surge:"
+            ],
+            "Questao": 
+            {
+                "Pergunta": "Pergunta 10: No ASP.NET, qual cabeçalho HTTP é frequentemente usado para transmitir dados de autenticação, como tokens de acesso?",
+                "Alternativas":
+                [
+                    "Authorization",
+                    "Content-Type",
+                    "Accept",
+                    "Host"
+                ],
+                "Resposta": 0
+            }
+        },
+        {
+            "Paragrafos":
+            [
+                "As luzes da sala piscam e a grande porta de aço finalmente se abre lentamente, revelando um caminho para fora. O ar fresco do lado de fora invade o ambiente escuro, trazendo uma sensação de alívio.",
+                "\"Você demonstrou seu domínio sobre as APIs REST no ASP.NET. Sua mente afiada e conhecimentos profundos o guiaram para a liberdade. Agora, o mundo lá fora é seu para explorar... e construir.\"",
+                "Você dá o primeiro passo para fora da sala, deixando para trás o labirinto de desafios que testaram seu conhecimento. À medida que a porta se fecha lentamente atrás de você, uma última mensagem aparece no terminal ao lado:",
+                "\"Lembre-se, o verdadeiro desafio está em continuar aprendendo e evoluindo. A jornada do conhecimento é infinita.\"",
+                "Você venceu. Você escapou. Parabéns!"
+            ],
+            "Questao": null
+        }
+    ]
+}
